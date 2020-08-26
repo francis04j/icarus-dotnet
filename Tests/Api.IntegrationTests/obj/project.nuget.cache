@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0NJY7MGU6SAYkU5XIwc8IIsiWF1P5dg9n20LC/EpwD5P2T+7frEEWeOFfBhd+m42pUFrbRksZ4tyO6Ty7h8dg==",
+  "dgSpecHash": "dQv3bjkgcHzgeY6c/PGYYQJQ5IvofEeMaDWoyz3+Bm0hpi2QUsciYh8SOIm8Vh0sRY4+PndgPGOHRas2Csv8hQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\Api.IntegrationTests.csproj",
+  "projectFilePath": "c:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\Api.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fran6\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\fran6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

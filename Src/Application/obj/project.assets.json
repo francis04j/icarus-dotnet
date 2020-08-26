@@ -2276,11 +2276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
+      "projectUniqueName": "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
       "projectName": "PodcastWebApi.Application",
-      "projectPath": "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
+      "projectPath": "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Recoup\\Src\\Application\\obj\\",
+      "outputPath": "c:\\Dev\\Recoup\\Src\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2299,11 +2299,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
-              "projectPath": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj"
+            "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
+              "projectPath": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj"
             },
-            "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj"
+            "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj"
             }
           }
         }

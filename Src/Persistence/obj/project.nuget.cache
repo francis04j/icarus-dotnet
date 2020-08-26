@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gUV8dqDHoXeb7n7Tkza9q5NJjna/UKva018EPqJDkkSsAIYtpyvDX7UE8/T/q4EvquA8Bj51Cs7AoAr4y5UwEg==",
+  "dgSpecHash": "rl7ZFoViefnmFx/Ca2Xsc5OtASF3G72FzO3H6kKYWnyij6HQ1rQ6T9Gm3P+XAjk9fhzM2rFAIZYsYE9eMriJbw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fran6\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\fran6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

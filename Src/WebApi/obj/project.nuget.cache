@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oHT7/uiCx1jDhZNlzhkr40WJU+zm0m1koSRMhvTESyXme1FSsrEjnlJ1vNPtQVD3f3MmlDJ62uox5ecxkkWJ6g==",
+  "dgSpecHash": "C6AoH55/bRAmN9rhYq9fIo+e56Awii7tJ4mkGhwFGoLOndH3FPfn0xgmiJi0e6UbdU47riI69hqQKbYZQEe4fw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj",
+  "projectFilePath": "c:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fran6\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\fran6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

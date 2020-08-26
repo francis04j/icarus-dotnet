@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gBKk/KytUsiS4i/MHBKsZk5vCND74U/FIPuYKPh3jk902Mjo2+YzB5sabN6i74Q31qj3VgQrWyHBTHQ39KDxNw==",
+  "dgSpecHash": "tM+1FmJ8Yx9AJqyRJd4ELb6+xKdd/UDA0Y2aVK5NtvuGrfQMfJ9T06QF0IXe594zOXy3iItFo4pTt1EMAfGw5Q==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

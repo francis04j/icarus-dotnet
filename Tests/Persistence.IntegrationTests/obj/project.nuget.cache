@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IyTizb0oJ+WhqtloaTJU8A8T1vTDHcfw/1vn3xE1LvtH/alyCvh6HQTl7ndKVSot0aJ3sQfB7QF5hxiIcyjnvA==",
+  "dgSpecHash": "+GFBWSWFJRhvUv+JjubAJphegEYFzoK6i5lQDDNCo6880PcVXNtFkr3hg5zux19FWnKr3ntQh30BuLLIcINqgQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\Persistence.IntegrationTests.csproj",
+  "projectFilePath": "c:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\Persistence.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fran6\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\fran6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

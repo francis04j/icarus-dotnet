@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17f2c5d1_002D2888_002D4d8e_002D9142_002De1bb67fe7261/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldGetWeatherForecast" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::529CF879-C4C7-45E7-B438-195AF5E94D58::.NETCoreApp,Version=v3.1::Application.UnitTests.GetWeatherForecastQueryHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38eadb6a_002Da411_002D4143_002Dbbad_002D220054d0d42b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReturnsWeatherForecastViewModel" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B80FF1-B41F-4C18-8861-9B99EA821AD3::.NETCoreApp,Version=v3.1::Api.IntegrationTests.WeatherForecast.GetAll.ReturnsWeatherForecastViewModel&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d222f89_002D5494_002D4c2c_002Da85c_002Df2e02c522d7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SaveChanges_GivenNewWeatherForecast_ShouldSetCreatedProperties" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5CDC32AF-841E-4E53-8FA0-7C16373DCD4D::.NETCoreApp,Version=v3.1::Persistence.IntegrationTests.RecoupDbContextTests.SaveChanges_GivenNewWeatherForecast_ShouldSetCreatedProperties&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5CDC32AF-841E-4E53-8FA0-7C16373DCD4D::.NETCoreApp,Version=v3.1::Persistence.IntegrationTests.RecoupDbContextTests.SaveChangesAsync_GivenExistingProduct_ShouldSetLastModifiedProperties&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e190bf06_002Dc5a2_002D4680_002Dab94_002Dcca1290abe51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReturnsEpisodeViewModel" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B80FF1-B41F-4C18-8861-9B99EA821AD3::.NETCoreApp,Version=v3.1::Api.IntegrationTests.Episodes.Get.ReturnsEpisodeViewModel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B80FF1-B41F-4C18-8861-9B99EA821AD3::.NETCoreApp,Version=v3.1::Api.IntegrationTests.WeatherForecast.GetAll.ReturnsWeatherForecastViewModel&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

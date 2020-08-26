@@ -1,0 +1,9 @@
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Dev\Recoup\Src\Infrastructure\Persistence\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

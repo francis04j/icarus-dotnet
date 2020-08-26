@@ -1,0 +1,17 @@
+C:\Dev\Recoup\Src\Common\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Dev\Recoup\Src\Common\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Dev\Recoup\Src\Common\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Dev\Recoup\Src\Common\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Dev\Recoup\Src\Common\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Dev\Recoup\Src\Common\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Dev\Recoup\Src\Common\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Dev\Recoup\Src\Common\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Dev\Recoup\Src\Common\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Dev\Recoup\Src\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Dev\Recoup\Src\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Dev\Recoup\Src\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Dev\Recoup\Src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Dev\Recoup\Src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Dev\Recoup\Src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Dev\Recoup\Src\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Dev\Recoup\Src\Common\obj\Debug\netstandard2.0\Common.pdb

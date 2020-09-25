@@ -51,3 +51,8 @@ Tests/Persistence.IntegrationTests/obj/Persistence.IntegrationTests.csproj.nuget
 Tests/Persistence.IntegrationTests/obj/project.assets.json
 Tests/Persistence.IntegrationTests/obj/project.nuget.cache
 Tests/Persistence.IntegrationTests/obj/Debug/netcoreapp3.1/Persistence.IntegrationTests.csprojAssemblyReference.cache
+Src/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+Src/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+Tests/Api.IntegrationTests/obj/Debug/netcoreapp3.1/Api.IntegrationTests.csprojAssemblyReference.cache
+Tests/Application.UnitTests/obj/Debug/netcoreapp3.1/Application.UnitTests.csprojAssemblyReference.cache
+Tests/Persistence.IntegrationTests/obj/Debug/netcoreapp3.1/Persistence.IntegrationTests.csprojAssemblyReference.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {}
+    "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
+    "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Recoup\\Src\\Domain\\obj\\",
+        "outputPath": "C:\\Dev\\Recoup\\Src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

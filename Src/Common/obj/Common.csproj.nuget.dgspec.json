@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {}
+    "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
+    "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
+        "projectPath": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Recoup\\Src\\Common\\obj\\",
+        "outputPath": "C:\\Dev\\Recoup\\Src\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

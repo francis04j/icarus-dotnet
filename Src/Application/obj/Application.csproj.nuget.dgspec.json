@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj": {}
+    "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj": {
+    "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
         "projectName": "PodcastWebApi.Application",
-        "projectPath": "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
+        "projectPath": "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Recoup\\Src\\Application\\obj\\",
+        "outputPath": "C:\\Dev\\Recoup\\Src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
-                "projectPath": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj"
+              "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
+                "projectPath": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj"
               },
-              "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj"
+              "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
+    "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
+        "projectPath": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Recoup\\Src\\Common\\obj\\",
+        "outputPath": "C:\\Dev\\Recoup\\Src\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
+    "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Dev\\Recoup\\Src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Recoup\\Src\\Domain\\obj\\",
+        "outputPath": "C:\\Dev\\Recoup\\Src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

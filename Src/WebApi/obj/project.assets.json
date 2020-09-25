@@ -12960,11 +12960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj",
+      "projectUniqueName": "C:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "c:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj",
+      "projectPath": "C:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj",
       "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Recoup\\Src\\WebApi\\obj\\",
+      "outputPath": "C:\\Dev\\Recoup\\Src\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12983,14 +12983,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\Common\\Common.csproj"
+            "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\Common\\Common.csproj"
             },
-            "c:\\Dev\\Recoup\\Src\\Infra\\Infrastructure.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\Infra\\Infrastructure.csproj"
+            "C:\\Dev\\Recoup\\Src\\Infra\\Infrastructure.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\Infra\\Infrastructure.csproj"
             },
-            "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj"
+            "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj"
             }
           }
         }

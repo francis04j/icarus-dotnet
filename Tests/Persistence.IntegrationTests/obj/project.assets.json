@@ -9336,11 +9336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\Persistence.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\Persistence.IntegrationTests.csproj",
       "projectName": "Persistence.IntegrationTests",
-      "projectPath": "c:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\Persistence.IntegrationTests.csproj",
+      "projectPath": "C:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\Persistence.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Dev\\Recoup\\Tests\\Persistence.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9359,8 +9359,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj"
+            "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj"
             }
           }
         }

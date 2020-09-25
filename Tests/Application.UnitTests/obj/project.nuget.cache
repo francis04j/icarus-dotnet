@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJkBKE4CbFNpyVgVhhWbtteKclUL1AoKE0d7HFzBfB9Hz9CsOYyGgupvTiF5plgcdNSdZ2tCspfNsuf13ZS9qg==",
+  "dgSpecHash": "4Gp0VWGKxIDUF4BA1fRjIkXPPpKU3Yu40kzQTTZteAS5W6MQoCQpKkpVTb6vD1ID89EFd4i/Hlpzn2ojnYFxrA==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Recoup\\Tests\\Application.UnitTests\\Application.UnitTests.csproj",
+  "projectFilePath": "C:\\Dev\\Recoup\\Tests\\Application.UnitTests\\Application.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fran6\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\fran6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

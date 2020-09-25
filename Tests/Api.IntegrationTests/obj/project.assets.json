@@ -13118,11 +13118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\Api.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\Api.IntegrationTests.csproj",
       "projectName": "Api.IntegrationTests",
-      "projectPath": "c:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\Api.IntegrationTests.csproj",
+      "projectPath": "C:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\Api.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Dev\\Recoup\\Tests\\Api.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13141,8 +13141,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj"
+            "C:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\WebApi\\Api.csproj"
             }
           }
         }
@@ -13202,6 +13202,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

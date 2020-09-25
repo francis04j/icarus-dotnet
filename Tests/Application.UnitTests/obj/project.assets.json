@@ -9070,11 +9070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Recoup\\Tests\\Application.UnitTests\\Application.UnitTests.csproj",
+      "projectUniqueName": "C:\\Dev\\Recoup\\Tests\\Application.UnitTests\\Application.UnitTests.csproj",
       "projectName": "Application.UnitTests",
-      "projectPath": "c:\\Dev\\Recoup\\Tests\\Application.UnitTests\\Application.UnitTests.csproj",
+      "projectPath": "C:\\Dev\\Recoup\\Tests\\Application.UnitTests\\Application.UnitTests.csproj",
       "packagesPath": "C:\\Users\\fran6\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Recoup\\Tests\\Application.UnitTests\\obj\\",
+      "outputPath": "C:\\Dev\\Recoup\\Tests\\Application.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9093,11 +9093,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\Application\\Application.csproj"
+            "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\Application\\Application.csproj"
             },
-            "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj"
+            "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Dev\\Recoup\\Src\\Persistence\\Persistence.csproj"
             }
           }
         }
